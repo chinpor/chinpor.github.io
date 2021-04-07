@@ -1,0 +1,303 @@
+{
+  "index": {
+    "zh": {
+      "head_title": "深博中葡文化咨询有限公司",
+      "page": [
+        {
+          "name": "主页",
+          "url": "index"
+        },
+        {
+          "name": "服务",
+          "title": "主营业务",
+          "service_list": [{
+              "name": "翻译",
+              "url": "service-Translation",
+              "query": "Translation",
+              "lang":"zh"
+            },
+            {
+              "name": "咨询",
+              "url": "service-Consulting",
+              "query": "Consulting",
+              "lang":"zh"
+            },
+            {
+              "name": "图书（和审核）",
+              "url": "service-Books",
+              "query": "Books",
+              "lang":"zh"
+            },
+            {
+              "name": "会展",
+              "url": "service-Exhibition",
+              "query": "Exhibition",
+              "lang":"zh"
+            },
+            {
+              "name": "传媒推广",
+              "url": "service-MediaPromotion",
+              "query": "MediaPromotion",
+              "lang":"zh"
+            },
+            {
+              "name": "教育培训",
+              "url": "service-EducationTraining",
+              "query": "EducationTraining",
+              "lang":"zh"
+            }
+          ]
+        },
+        {
+          "name": "关于我们",
+          "url": "about"
+        },
+        {
+          "name": "联系我们",
+          "url": "contact"
+        }
+      ],
+      "location":"地址",
+      "address":" 澳门特别行政区大堂区飛南第街90號百德大廈G层O座",
+      "contact_way":[
+        {
+          "phone":"电话",
+          "number":"(+853) 65995669"
+        },
+        {
+          "phone":"电话",
+          "number":"(+86) 13668945669"
+        }
+      ],
+      "about_detail":"一起为中国企业走出去，和葡语国家企业、产品、资本引进来，提供一体化全方位服务，配合我国一带一路政策，为双边关系建设增砖添瓦。",
+      "bot":"© 2019.深博中葡文化咨询有限公司",
+      "about_title":"我们共同合作",
+      "contact":"联系方式"
+    },
+    "hk": {
+      "head_title": "深博中葡文化谘詢有限公司",
+      "page": [
+        {
+          "name": "主頁",
+          "url": "HK"
+        },
+        {
+          "name": "服務",
+          "title": "主營業務",
+          "service_list": [
+            {
+              "name": "翻譯",
+              "url": "/service/_Translation",
+              "query": "Translation",
+              "lang":"hk"
+            },
+            {
+              "name": "谘詢",
+              "url": "/service/Consulting",
+              "query": "Consulting",
+              "lang":"hk"
+            },
+            {
+              "name": "圖書（和審核）",
+              "url": "/service/Books",
+              "query": "Books",
+              "lang":"hk"
+            },
+            {
+              "name": "會展",
+              "url": "/service/Exhibition",
+              "query": "Exhibition",
+              "lang":"hk"
+            },
+            {
+              "name": "傳媒推廣",
+              "url": "/service/MediaPromotion",
+              "query": "MediaPromotion",
+              "lang":"hk"
+            },
+            {
+              "name": "教育培訓",
+              "url": "/service/EducationTraining",
+              "query": "EducationTraining",
+              "lang":"hk"
+            }
+          ]
+        },
+        {
+          "name": "關於我們",
+          "url": "HK-about"
+        },
+        {
+          "name": "聯係我們",
+          "url": "HK-contact"
+        }
+      ],
+      "location":"地址",
+      "address":" 澳門特別行政區大堂區飛南第街90號百德大廈G層O座",
+      "contact_way":[
+        {
+          "phone":"電話",
+          "number":"(+853) 65995669"
+        },
+        {
+          "phone":"電話",
+          "number":"(+86) 13668945669"
+        }
+      ],
+      "about_detail":"一起為中國企業走出去，和葡語國家企業、産品、資本引進來，提供一體化全方位服務，配合我國一帶一路政策，為雙邊關係建設增磚添瓦。",
+      "bot":"© 2019.深博中葡文化谘詢有限公司",
+      "about_title":"我們共同合作",
+      "contact":"聯係方式"
+    },
+    "us": {
+        "head_title": "Chinpor Culture and Consultancy Co. Ltd.",
+        "page": [
+          {
+            "name": "Home",
+            "url": "US"
+          },
+          {
+            "name": "Service",
+            "title": "Main Business",
+            "service_list": [
+              {
+                "name": "Translation/Interpretation",
+                "url": "/service/_Translation?lang=us",
+                "query": "Translation",
+                "lang":"us"
+              },
+              {
+                "name": "Consulting",
+                "url": "/service/Consulting?lang=us",
+                "query": "Consulting",
+                "lang":"us"
+              },
+              {
+                "name": "Books",
+                "url": "/service/Books",
+                "query": "Books",
+                "lang":"us"
+              },
+              {
+                "name": "Exhibition",
+                "url": "/service/Exhibition",
+                "query": "Exhibition",
+                "lang":"us"
+              },
+              {
+                "name": "Media Promotion",
+                "url": "/service/MediaPromotion",
+                "query": "MediaPromotion",
+                "lang":"us"
+              },
+              {
+                "name": "Education Training",
+                "url": "/service/EducationTraining",
+                "query": "EducationTraining",
+                "lang":"us"
+              }
+            ]
+          },
+          {
+            "name": "About",
+            "url": "US-about"
+          },
+          {
+            "name": "Contact Us",
+            "url": "US-contact"
+          }
+        ],
+        "location":"address",
+        "address":"  Block O, G/f, b&d building, no. 90 feinan street, lobby area, Macao special administrative region",
+        "contact_way":[
+          {
+            "phone":"telephone",
+            "number":"(+853) 65995669"
+          },
+          {
+            "phone":"telephone",
+            "number":"(+86) 13668945669"
+          }
+        ],
+        "about_detail":"We offer integrated and comprehensive services for Chinese enterprises to go global, and for enterprises, products and capital from Portuguese speaking countries to come in, following the Belt and Road Initiative in promoting the bilateral relations.",
+        "bot":"© 2019.Chinpor Culture and Consultancy Co. Ltd.",
+        "about_title":"Consociation",
+        "contact":"Address"
+    },
+    "pro": {
+      "head_title": "Chinpor Culture and Consultancy Co. Ltd.",
+      "page": [
+        {
+          "name": "Casa",
+          "url": "portugal"
+        },
+        {
+          "name": "Serviço",
+          "title": "Ramo de atividade",
+          "service_list": [
+            {
+              "name": "Tradução/Interpretação",
+              "url": "/service/_Translation",
+              "query": "Translation",
+              "lang":"pro"
+            },
+            {
+              "name": "Consultoria",
+              "url": "/service/Consulting",
+              "query": "Consulting",
+               "lang":"pro"
+            },
+            {
+              "name": "Publicações",
+              "url": "/service/Books",
+              "query": "Books",
+               "lang":"pro"
+            },
+            {
+              "name": "Exibições",
+              "url": "/service/Exhibition",
+              "query": "Exhibition",
+               "lang":"pro"
+            },
+            {
+              "name": "Promoção juntos dos meios de comunicação",
+              "url": "/service/MediaPromotion",
+              "query": "MediaPromotion",
+               "lang":"pro"
+            },
+            {
+              "name": "Educação/Formação",
+              "url": "/service/EducationTraining",
+              "query": "EducationTraining",
+               "lang":"pro"
+            }
+          ]
+        },
+        {
+          "name": "Sobre",
+          "url": "portugal-about"
+        },
+        {
+          "name": "Contate-Nos",
+          "url": "portugal-contact"
+        }
+      ],
+      "location":"Endereço ",
+      "address":"  Bloco O, G-floor, bai tak building, 90 fei-nandi street, lobby, rae de,macau",
+      "contact_way":[
+        {
+          "phone":"Phone ",
+          "number":"(+853) 65995669"
+        },
+        {
+          "phone":"Phone ",
+          "number":"(+86) 13668945669"
+        }
+      ],
+      "about_detail":"propomo-nos a oferecer serviços integrados e abrangentes que propiciem a internacionalização das empresas chinesas bem como a entrada de empresas estrangeiras, produtos e capital dos países de língua portuguesa, seguindo a promoção das relações bilaterais proposta no âmbito da iniciativa Faixa e Rota.",
+      "bot":"© 2019.Chinpor Culture and Consultancy Co. Ltd.",
+      "about_title":"consociação",
+      "contact":"Address"
+    }
+  }
+}

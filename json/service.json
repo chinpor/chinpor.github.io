@@ -1,0 +1,1043 @@
+{
+  "data":{
+  "service_list": {
+    "zh": {
+      "menus": [
+        {
+          "name": "翻译",
+          "url": "Translation",
+          "query": "Translation",
+          "lang":"zh",
+          "id":0
+        },
+        {
+          "name": "咨询",
+          "url": "Consulting",
+          "query": "Consulting",
+          "lang":"zh",
+          "id":1
+        },
+        {
+          "name": "图书(和审核)",
+          "url": "Books",
+          "query": "Books",
+          "lang":"zh",
+          "id":2
+        },
+        {
+          "name": "会展",
+          "url": "Exhibition",
+          "query": "Exhibition",
+          "lang":"zh",
+          "id":3
+        },
+        {
+          "name": "传媒推广",
+          "url": "MediaPromotion",
+          "query": "MediaPromotion",
+          "lang":"zh",
+          "id":4
+        },
+        {
+          "name": "教育培训",
+          "url": "EducationTraining",
+          "query": "EducationTraining",
+          "lang":"zh",
+          "id":5
+        }
+      ],
+      "Translation": {
+        "title": "页面标题",
+        "description": "页面描述",
+        "keywords": "页面关键词",
+        "name": "翻译",
+        "content_list": [{
+            "title": "工作内容介绍",
+            "arr": [
+              "我公司主攻葡萄牙语、英语和中文三种语言的交互翻译，包括笔译和口译。承接各类口笔译：专业笔译、商务口译、同声传译、陪同翻译、多媒体配音、网站本地化翻译、软件本地化翻译与测试、多语言桌面排版等服务。"
+            ]
+          },
+          {
+            "title": "笔译方面",
+            "arr": [
+              "除去一般性的翻译工作，在学术翻译领域和澳门基金会以及高校教师合作积累了宝贵的经验，与此同时在实践领域专业性较强的法律文件翻译，以及工程标书翻译领域聚集了一批专业且有经验的团队；"
+            ]
+          },
+          {
+            "title": "口译领域",
+            "arr": [
+              "译员广泛参与各类陪同翻译、商务会议和同声传译项目，积累了深厚的工作经验，综合素质高，应变能力强；"
+            ]
+          },
+          {
+            "title": "品质保证",
+            "arr": [
+              "人才上，我公司译员都为多年有工作经验和中国以及海外生活经验，并获得研究生及以上的高学历中葡、葡英或者中葡英三语高水平、综合型人才。我公司另外配有专门的目标语言母语国家高素质人才语言审校，和有经验的排版人员，确保输出译文的高品质、可读性、准确性和文件的整洁、美观。",
+              "技术上，人工智能搭配我公司专业语料库，我们同高校信息技术实验室合作，运用国际先进AI实验室基于NLP技术开发的翻译算法，不断优化专有语言库，实现高准确率的神经网络翻译，在商业、经济、法律、财务等专业领域，大幅度提高翻译作品的优质性并维持质量稳定性，场景实现上优于市场一般准确率。"
+            ]
+          }
+        ]
+      },
+      "Consulting": {
+        "name": "咨询",
+        "title": "页面标题1",
+        "description": "页面描述1",
+        "keywords": "页面关键词1",
+        "content_list": [{
+            "title": "工作内容介绍",
+            "arr": [
+              "公司可以根据需求主要向企业或个人，以中英葡三种语言为工作语言，提供葡语国家与英语国家的咨询与调研，具体包含：葡语国家企业商业尽职调查、战略咨询、风险评估、风险管理咨询，市场分析调研、国别行业情况报告，出具律师和会计师意见，中英葡合同审查等。"
+            ]
+          },
+          {
+            "title": "目标企业发展状况与风险评估",
+            "arr": [
+              "国别情况、行业发展状况、政治风险、法律法规、税收与行业监管政策。",
+              "目标企业商业模式、市场占有率、产品口碑、竞争状况分析、用户调研、业务未来预测。"
+            ]
+          },
+          {
+            "title": "法律尽职调查",
+            "arr": [
+              "目标企业公司资质、股权结构与实际控制人。",
+              "关联方与人员相关关系",
+              "重大诉讼、仲裁",
+              "专利和知识产权。"
+            ]
+          },
+          {
+            "title": "财务尽职调查",
+            "arr": [
+              "财务报表分析，税务情况、业绩分析与预测。"
+            ]
+          },
+          {
+            "title": "行业研究报告",
+            "arr": [
+              "我司根据需求向海外客户提供中国各行各业的研究报告。此外面向国内客户，还专注于葡萄牙、巴西、安哥拉等葡语国家的优势细分产业研究，包括葡萄酒、橄榄油、牛肉、大豆、蔗糖、铁矿、锰矿、铬矿、铝土、铜矿、杉木、桉木、可再生能源、旅游业等行业的基础研究、数据分析、最新发展动态，为国内外各类客户的商业决策提供重要参考。"
+            ]
+          },
+          {
+            "title": "目标客户群体",
+            "arr": [
+              "对海外特别是葡语国家市场感兴趣，或者已经在这些国家立足的中国企业，由于其自身业务需要，我们将以自己对这些国家的经济、政治、法律的理解，给出专业的意见和分析。",
+              "对中国市场感兴趣有意愿来中国发展，或者已经在中国的葡语国家企业，我公司将以完善专业的服务和态度，为您在中国的商业活动和计划，提供您所需要的信息和服务。"
+            ]
+          },
+          {
+            "title": "公司优势",
+            "arr": [
+              "公司在深圳有一家律所，与此同时和海外特别是同葡语国家巴西、葡萄牙、安哥拉、莫桑比克的律所、会计师事务所有深入交流和合作，可以为客户需求提供一体化全方位、高效且经济的服务。"
+            ]
+          }
+        ]
+      },
+      "Books": {
+        "name": "图书(和审核)",
+        "title": "页面标题2",
+        "description": "页面描述2",
+        "keywords": "页面关键词2",
+        "content_list": [{
+            "title": "工作内容介绍",
+            "arr": [
+              "翻译外文、中文书籍和刊物，以学术类型为主，中英葡三种语言为主。我公司可以较快出版国际刊号图书，出版速度比 大陆同类资料快 3-4 个月，印制精美，海外发行渠道广泛。致力于中外文化传播，成为中国和以葡语国家为主的其他国家之间思想、文化沟通的桥梁。",
+              "公司致力于把国外作品介绍到中国，使得中国在校生、学者和政界、商界人士，可以以自己的母语低成本、高效地获取资料和信息，于此同时我们优质的翻译和配套立项服务，也给广大科研人士一个扩大自身和作品影响力的机会。我们同时有中文著作译成其他语言的项目，立志将中国的优秀作品介绍到海外，给国外更多深入便捷地认识了解中国和中国优秀思想和科研作品的机会，同时也增大本土学者的国际影响力。"
+            ]
+          },
+          {
+            "title": "项目选题方面",
+            "arr": [
+              "我公司与澳门和海内外各大高校开展长期合作，将各个学科，特别是中国和葡语国家间的法律、政治、经济、文化等领域的前沿工作成果集结成书，同时也引进学术新星有价值的作品书籍。"
+            ]
+          },
+          {
+            "title": "资金方面",
+            "arr": [
+              "同澳门政府合作立项，申请资金，将目标作品高品质地翻译成中文，或者将中国作品翻译成其他语言。"
+            ]
+          },
+          {
+            "title": "渠道方面",
+            "arr": [
+              "同海内外有影响力的出版机构合作，妥善处理出版发行事宜。"
+            ]
+          }
+        ]
+      },
+      "Exhibition": {
+        "name": "会展",
+        "title": "页面标题3",
+        "description": "页面描述3",
+        "keywords": "页面关键词3",
+        "content_list": [{
+            "title": "工作内容介绍",
+            "arr": [
+              "结合公司的咨询、翻译和媒体推广优势，公司为国内外客户到异国参展提供全方位、多维度、一体化的会展服务方案。利用公司本地化和语言方面的优势，为来中国的海外公司，以及到海外的中国公司解决参展过程中的实际困难。同时也发挥公司的信息优势，将高质量的展会和行业信息精准介绍给客户。",
+              "同时公司代理企业秘书服务，为内地和海外在澳门设立公司或者办事处的企业，从企业注册包括商业地址的租用和其他事物，提供一条龙、高效、便捷的公司秘书服务。"
+            ]
+          },
+          {
+            "title": "会展前期信息咨询",
+            "arr": [
+              "总结搜集国内外展会信息，派专门的客户经理，针对客户品牌特点和种类推荐展会，同会展组织方协调，获取报价等细节信息，各类相关资料的组织和提供。"
+            ]
+          },
+          {
+            "title": "会展活动组织",
+            "arr": [
+              "根据客户需要提供从机票、邀请函、签证、及其后的交通、住宿等一系列的安排和组织，并且根据客户要求可以根据其会展装修方案组织前期准备，并在人员安排上，如有需要，协调配备短期工作人员，我们会对人员进行培训，使其提前熟悉客户情况和品牌信息，并会派有经验的翻译人员进行现场翻译，协助客户处理各种突发事件。"
+            ]
+          },
+          {
+            "title": "会展后期跟进",
+            "arr": [
+              "我公司会继续和客户沟通将一些有意向的客户的消息和信息发给客户。并且公司可以配合可以配合葡語系國家在內地、澳門以及香港等地區進行產品的宣傳，包括硬广和软广。"
+            ]
+          }
+        ]
+      },
+      "MediaPromotion": {
+        "name": "传媒推广",
+        "title": "页面标题4",
+        "description": "页面描述4",
+        "keywords": "页面关键词4",
+        "content_list": [{
+            "title": "工作内容介绍",
+            "arr": [
+              "公司主要在纸媒、电视媒体和新媒体网络推广三个渠道根据客户需求和预算安排量身定制宣传方案，筛选转化率高的宣传渠道，协调推进方案的实施，辅助目标公司主要宣传业务开展。组织线下的产品发布会、品牌宣讲会等会议营销活动，邀请行业媒体来支持、协办甚至主办。",
+              "销售宣传工具上，协调配备各种产品宣传册、礼品、海报、包装、产品拍摄、PPT等，推动销售工作的顺利开展。也包括其他各种宣传活动，将行业相关人员聚集起来，便于互相间的沟通，信息交流和共享。"
+            ]
+          },
+          {
+            "title": "纸媒方面",
+            "arr": [
+              "根据客户的品牌定位、品牌价值链、品牌愿景等为客户提供文案辅助，我公司可以为客户取得国内外各类杂志和报纸的版面。"
+            ]
+          },
+          {
+            "title": "电视媒体",
+            "arr": [
+              "我公司和澳广视以及国内电视台都有合作，可以安排采访，协调推出电视广告。"
+            ]
+          },
+          {
+            "title": "新媒体和网络推广",
+            "arr": [
+              "具体工作上，根据需求为葡语国家公司搭建中文版企业网站、微信平台、淘宝、宣传册制作等。针对国内企业的中文网站，我公司也提供英文、葡文版本翻译、定制和版面设计服务。"
+            ]
+          }
+        ]
+      },
+      "EducationTraining": {
+        "name": "教育培训",
+        "title": "页面标题5",
+        "description": "页面描述5",
+        "keywords": "页面关键词5",
+        "content_list": [{
+            "title": "工作内容介绍",
+            "arr": [
+              "我公司主攻线上线下语言培训、文化分享和各类型包括融资租赁、商业保理在内的商业、法律等专业培训项目，结合公司的语言及咨询优势，配合并助力公司的宣传业务的开展，促使公司业务形成闭环，实现良性发展。"
+            ]
+          },
+          {
+            "title": "语言培训项目",
+            "arr": [
+              "录制线上语言培训课程，进行知识讲解和技能培训。线下，我们开设有辅导班，采用小班模式，面对面了解学生的在学习中切实的痛点、难点，同时通过线下课程优化我们的线上学习项目。"
+            ]
+          },
+          {
+            "title": "文化分享项目",
+            "arr": [
+              "举办相关活动有针对性地向国外介绍中国文化和中国生活的方方面面，向国内用户介绍葡语国家地理、政治、经济、文化和历史方面的知识，促进双方的互相了解。并组织一系列文化体验项目，提供各类跨文化实践机会，场景化浸润式促进参与人员语言和工作能力同步协调增长。"
+            ]
+          },
+          {
+            "title": "专业培训项目",
+            "arr": [
+              "我公司利用自身优势，结合大湾区学院院士和教授，面向广大葡语系国家政协商界人士和大湾区的贸易商家开展融资租赁、商业保理培训，提供商贸实践、法律以及其他跨文化跨学科的短期培训项目，为广大客户提供行业内最新信息和发展动向。"
+            ]
+          }
+        ]
+      }
+    },
+    "hk": {
+      "menus": [
+         {
+          "name": "翻譯",
+          "url": "/service/Translation",
+          "query": "Translation",
+          "lang":"hk",
+          "id":0
+        },
+        {
+          "name": "谘詢",
+          "url": "/service/Consulting",
+          "query": "Consulting",
+          "lang":"hk",
+          "id":1
+        },
+        {
+          "name": "圖書（和審核）",
+          "url": "/service/Books",
+          "query": "Books",
+          "lang":"hk",
+          "id":2
+        },
+        {
+          "name": "會展",
+          "url": "/service/Exhibition",
+          "query": "Exhibition",
+          "lang":"hk",
+          "id":3
+        },
+        {
+          "name": "傳媒推廣",
+          "url": "/service/MediaPromotion",
+          "query": "MediaPromotion",
+          "lang":"hk",
+          "id":4
+        },
+        {
+          "name": "教育培訓",
+          "url": "/service/EducationTraining",
+          "query": "EducationTraining",
+          "lang":"hk",
+          "id":5
+        }
+      ],
+      "Translation": {
+        "title": "页面标题",
+        "description": "页面描述",
+        "keywords": "页面关键词",
+        "name": "翻譯",
+        "content_list": [{
+            "title": "介紹",
+            "arr": [
+              "我公司主攻葡萄牙語、英語和中文三種語言的交互翻譯，包括筆譯和口譯。承接各類口筆譯：專業筆譯、商務口譯、同聲傳譯、陪同翻譯、多媒體配音、網站在地化翻譯、軟體在地化翻譯與測試、多語言桌麵排版等服務。"
+            ]
+          },
+          {
+            "title": "筆譯方麵",
+            "arr": [
+              "除去一般性的翻譯工作，在學術翻譯領域和澳門基金會以及高校教師合作積纍了寶貴的經驗，與此同時在實踐領域專業性較強的法律文件翻譯，以及專案標書翻譯領域聚集了一批專業且有經驗的團隊；；"
+            ]
+          },
+          {
+            "title": "口譯領域",
+            "arr": [
+              "譯員廣泛參與各類陪同翻譯、商務會議和同聲傳譯項目，積纍了深厚的工作經驗，綜合素質高，應變能力強；"
+            ]
+          },
+          {
+            "title": "品質保證",
+            "arr": [
+              "人才上，我公司譯員都為多年有工作經驗和中國以及海外生活經驗，並獲得研究生及以上的高學曆中葡、葡英或者中葡英三語高水準、綜合型人才。我公司另外配有專門的目標語言母語國家高素質人才語言審校，和有經驗的排版人員，確保輸出譯文的高品質、可讀性、準確性和文件的整潔、美觀。",
+              "技術上，人工智慧搭配我公司專業語料庫，我們同高校信息技術實驗室合作，運用國際先進AI實驗室基於NLP技術開發的翻譯算法，不斷優化專有語言庫，實現高準確率的神經網路翻譯，在商業、經濟、法律、財務等專業領域，大幅度提高翻譯作品的優質性並維持質量穩定性，場景實現上優於市場一般準確率。"
+            ]
+          }
+        ]
+      },
+      "Consulting": {
+        "name": "谘詢",
+        "title": "页面标题1",
+        "description": "页面描述1",
+        "keywords": "页面关键词1",
+        "content_list": [{
+            "title": "介紹",
+            "arr": [
+              "公司可以根據需求主要嚮企業或個人，以中英葡三種語言為工作語言，提供葡語國家與英語國家的谘詢與調研，具體包含：葡語國家企業商業盡職調查、戰略谘詢、風險評估、風險管理谘詢，市場分析調研、國別行業情況報告，出具律師和會計師意見，中英葡契約審查等。"
+            ]
+          },
+          {
+            "title": "目標企業發展狀況與風險評估",
+            "arr": [
+              "國別情況、行業發展狀況、政治風險、法律法規、稅收與行業監管政策；",
+              "目標企業商業模式、市場佔有率、産品口碑、競爭狀況分析、用戶調研、業務未來預測。"
+            ]
+          },
+          {
+            "title": "法律盡職調查",
+            "arr": [
+              "目標企業公司資質、股權結構與實際控製人",
+              "關聯方與人員相關關係",
+              "重大訴訟、仲裁",
+              "專利和智慧産權。"
+            ]
+          },
+          {
+            "title": "財務盡職調查",
+            "arr": [
+              "財務報錶分析，稅務情況、業績分析與預測。"
+            ]
+          },
+          {
+            "title": "行業研究報告",
+            "arr": [
+              "我司根據需求嚮海外客戶提供中國各行各業的研究報告。此外麵嚮國內客戶，還專註於葡萄牙、巴西、安哥拉等葡語國家的優勢細分産業研究，包括葡萄酒、橄欖油、牛肉、大豆、蔗糖、鐵礦、錳礦、鉻礦、鋁土、銅礦、杉木、桉木、可再生能源、觀光業等行業的基礎研究、數據分析、最新發展動態，為國內外各類客戶的商業決策提供重要參考。"
+            ]
+          },
+          {
+            "title": "目標客戶群體",
+            "arr": [
+              "對海外特別是葡語國家市場感興趣，或者已經在這些國家立足的中國企業，由於其自身業務需要，我們將以自己對這些國家的經濟、政治、法律的理解，給出專業的意見和分析。",
+              "對中國市場感興趣有意願來中國發展，或者已經在中國的葡語國家企業，我公司將以完善專業的服務和態度，為您在中國的商業活動和計劃，提供您所需要的信息和服務。"
+            ]
+          },
+          {
+            "title": "公司優勢",
+            "arr": [
+              "公司在深圳有一家律所，與此同時和海外特別是同葡語國家巴西、葡萄牙、安哥拉、莫三鼻給的律所、會計師事務所有深入交流和合作，可以為客戶需求提供一體化全方位、高效且經濟的服務。"
+            ]
+          }
+        ]
+      },
+      "Books": {
+        "name": "圖書（和審核）",
+        "title": "页面标题2",
+        "description": "页面描述2",
+        "keywords": "页面关键词2",
+        "content_list": [{
+            "title": "介紹",
+            "arr": [
+              "翻譯外文、中文書籍和刊物，以學術類型為主，中英葡三種語言為主。我公司可以較快出版國際刊號圖書，出版速度比 大陸同類資料快 3-4 個月，印製精美，海外發行通路廣泛。緻力於中外文化傳播，成為中國和以葡語國家為主的其他國家之間思想、文化溝通的橋梁。",
+              "公司緻力於把國外作品介紹到中國，使得中國在校生、學者和政界、商界人士，可以以自己的母語低成本、高效地獲取資料和信息，於此同時我們優質的翻譯和配套立項服務，也給廣大科研人士一個擴大自身和作品影響力的機會。我們同時有中文著作譯成其他語言的項目，立誌將中國的優秀作品介紹到海外，給國外更多深入便捷地認識了解中國和中國優秀思想和科研作品的機會，同時也增大本土學者的國際影響力。"
+            ]
+          },
+          {
+            "title": "項目選題方面",
+            "arr": [
+              "我公司與澳門和海內外各大高校開展長期合作，將各個學科，特別是中國和葡語國家間的法律、政治、經濟、文化等領域的前沿工作成果集結成書，同時也引進學術新星有價值的作品書籍。"
+            ]
+          },
+          {
+            "title": "資金方面",
+            "arr": [
+              "同澳門政府合作立項，申請資金，將目標作品高品質地翻譯成中文，或者將中國作品翻譯成其他語言。"
+            ]
+          },
+          {
+            "title": "通路方面",
+            "arr": [
+              "同海內外有影響力的出版機構合作，妥善處理出版發行事宜。"
+            ]
+          }
+        ]
+      },
+      "Exhibition": {
+        "name": "會展",
+        "title": "页面标题3",
+        "description": "页面描述3",
+        "keywords": "页面关键词3",
+        "content_list": [{
+            "title": "介紹",
+            "arr": [
+              "結合公司的谘詢、翻譯和媒體推廣優勢，公司為國內外客戶到異國參展提供全方位、多維度、一體化的會展服務方案。利用公司在地化和語言方麵的優勢，為來中國的海外公司，以及到海外的中國公司解決參展過程中的實際睏難。同時也發揮公司的信息優勢，將高質量的展會和行業信息精準介紹給客戶。",
+              "同時公司代理企業秘書服務，為內地和海外在澳門設立公司或者辦事處的企業，從企業註冊包括商業地址的租用和其他事物，提供一條龍、高效、便捷的公司秘書服務。"
+            ]
+          },
+          {
+            "title": "會展前期信息谘詢",
+            "arr": [
+              "總結搜集國內外展會信息，派專門的客戶經理，針對客戶品牌特點和種類推薦展會，同會展組織方協調，獲取報價等細節信息，各類相關資料的組織和提供。"
+            ]
+          },
+          {
+            "title": "會展活動組織",
+            "arr": [
+              "根據客戶需要提供從機票、邀請函、簽證、及其後的交通、住宿等一係列的安排和組織，並且根據客戶要求可以根據其會展裝修方案組織前期準備，並在人員安排上，如有需要，協調配備短期從業人員，我們會對人員進行培訓，使其提前熟悉客戶情況和品牌信息，並會派有經驗的翻譯人員進行現場翻譯，協助客戶處理各種突發事件。"
+            ]
+          },
+          {
+            "title": "會展後期跟進",
+            "arr": [
+              "我公司會繼續和客戶溝通將一些有意嚮的客戶的消息和信息發給客戶。並且公司可以配合可以配合葡語係國家在內地、澳門以及香港等地區進行產品的宣傳，包括硬廣和軟廣。"
+            ]
+          }
+        ]
+      },
+      "MediaPromotion": {
+        "name": "傳媒推廣",
+        "title": "页面标题4",
+        "description": "页面描述4",
+        "keywords": "页面关键词4",
+        "content_list": [{
+            "title": "介紹",
+            "arr": [
+              "公司主要在紙媒、電視媒體和新媒體網路推廣三個通路根據客戶需求和預算安排量身定製文宣方案，篩選轉化率高的文宣通路，協調推進方案的實施，輔助目標公司主要文宣業務開展。組織線下的産品PO會、品牌宣講會等會議營銷活動，邀請行業媒體來支援、協辦甚至主辦。",
+              "銷售文宣工具上，協調配備各種産品文宣冊、禮品、海報、包裝、産品拍攝、PPT等，推動銷售工作的順利開展。也包括其他各種文宣活動，將行業相關人員聚集起來，便於互相間的溝通，信息交流和共享。"
+            ]
+          },
+          {
+            "title": "紙媒方面",
+            "arr": [
+              "根據客戶的品牌定位、品牌價值鏈、品牌願景等為客戶提供文案輔助，我公司可以為客戶取得國內外各類雜誌和報紙的版面。"
+            ]
+          },
+          {
+            "title": "電視媒體",
+            "arr": [
+              "我公司和澳廣視以及國內電視臺都有合作，可以安排採訪，協調推出電視廣告。"
+            ]
+          },
+          {
+            "title": "新媒體和網路推廣",
+            "arr": [
+              "具體工作上，根據需求為葡語國家公司搭建中文版企業網站、微信平臺、淘寶、文宣冊製作等。針對國內企業的中文網站，我公司也提供英文、葡文版本翻譯、定製和版麵設計服務。"
+            ]
+          }
+        ]
+      },
+      "EducationTraining": {
+        "name": "教育培訓",
+        "title": "页面标题5",
+        "description": "页面描述5",
+        "keywords": "页面关键词5",
+        "content_list": [{
+            "title": "介紹",
+            "arr": [
+              "我公司主攻線上線下語言培訓、文化分享和各類型包括融資租賃、商業保理在內的商業、法律等專業培訓項目，結合公司的語言及谘詢優勢，配合並助力公司的文宣業務的開展，促使公司業務形成閉環，實現良性發展。"
+            ]
+          },
+          {
+            "title": "語言培訓項目",
+            "arr": [
+              "錄製線上語言培訓課程，進行知識講解和技能培訓。線下，我們開設有輔導班，採用小班模式，麵對麵了解學生的在學習中切實的痛點、難點，同時通過線下課程優化我們的線上學習項目。"
+            ]
+          },
+          {
+            "title": "文化分享項目",
+            "arr": [
+              "舉辦相關活動有針對性地嚮國外介紹中國文化和中國生活的方方麵麵，嚮國內用戶介紹葡語國家地理、政治、經濟、文化和曆史方麵的知識，促進雙方的互相了解。並組織一係列文化體驗項目，提供各類跨文化實踐機會，場景化浸潤式促進參與人員語言和工作能力同步協調增長。"
+            ]
+          },
+          {
+            "title": "專業培訓項目",
+            "arr": [
+              "舉辦相關活動有針對性地嚮國外介紹中國文化和中國生活的方方麵麵，嚮國內用戶介紹葡語國家地理、政治、經濟、文化和曆史方麵的知識，促進雙方的互相了解。並組織一係列文化體驗項目，提供各類跨文化實踐機會，場景化浸潤式促進參與人員語言和工作能力同步協調增長。"
+            ]
+          }
+        ]
+      }
+    },
+    "us": {
+      "menus": [
+         {
+          "name": "Translation/Interpretation",
+          "url": "/service/Translation?lang=us",
+          "query": "Translation",
+          "lang":"us",
+          "id":0
+        },
+        {
+          "name": "Consulting",
+          "url": "/service/Consulting?lang=us",
+          "query": "Consulting",
+          "lang":"us",
+          "id":1
+        },
+        {
+          "name": "Books",
+          "url": "/service/Books",
+          "query": "Books",
+          "lang":"us",
+          "id":2
+        },
+        {
+          "name": "Exhibition",
+          "url": "/service/Exhibition",
+          "query": "Exhibition",
+          "lang":"us",
+          "id":3
+        },
+        {
+          "name": "Media Promotion",
+          "url": "/service/MediaPromotion",
+          "query": "MediaPromotion",
+          "lang":"us",
+          "id":4
+        },
+        {
+          "name": "Education Training",
+          "url": "/service/EducationTraining",
+          "query": "EducationTraining",
+          "lang":"us",
+          "id":5
+        }
+      ],
+      "Translation": {
+        "title": "页面标题",
+        "description": "页面描述",
+        "keywords": "页面关键词",
+        "name": "Translation/Interpretation",
+        "content_list": [{
+            "title": "Introduction",
+            "arr": [
+              "Our company specializes in translations and interpretations among Portuguese, English and Chinese. The company mainly offer different kinds translations and interpretations in various fields: professional translation, business interpretation, simultaneous interpretation, escort interpretation, dubbing, website localization, software localization and testing, multilingual desktop typesetting and other services."
+            ]
+          },
+          {
+            "title": "Translation",
+            "arr": [
+              "In addition to the general translations, we have accumulated valuable experience in the field of academic translation through cooperation with Macao Foundation and university teachers. At the same time, we have many professional and experienced teams in the field of professional translation of legal document and bidding documents;"
+            ]
+          },
+          {
+            "title": "Interpretation",
+            "arr": [
+              "Widely involved in various escort interpretations, business interpretations and simultaneous interpretations, our interpreters have profound working experience, high comprehensive quality and strong adaptability;"
+            ]
+          },
+          {
+            "title": "Quality Assurance",
+            "arr": [
+              "The translators and interpreters of our company are qualified talents who have worked and lived in China and overseas for many years and have obtained bachelor’s degree or above of high education in Portuguese, Portuguese and English or the three languages of Portuguese, Chinese and English. In addition, we have experienced proofreaders and typesetters from the countries of the target language(s) to ensure the quality, readability, accuracy of the translation and the neatness and beauty of the documents.",
+              "Technically, artificial intelligence is matched with our professional corpus. We cooperate with the information technology laboratories from universities, applying the algorithm developed by the international advanced AI laboratory based on NLP technology to continuously optimize the proprietary language database and realize the neural network translation with high accuracy. In the professional fields like business, economy, law and finance, we have greatly improved and maintained the quality of our translation, better than the general accuracy in the market in scenario realization."
+            ]
+          }
+        ]
+      },
+      "Consulting": {
+        "name": "Consulting",
+        "title": "页面标题1",
+        "description": "页面描述1",
+        "keywords": "页面关键词1",
+        "content_list": [{
+            "title": "Introduction",
+            "arr": [
+              "We can provide enterprises or individuals with multi-national and cross-industry consulting and legal services in three languages (Chinese, English and Portuguese), including business due diligence investigation, strategic consulting, risk assessment, risk management consulting, market analysis and research, country and industry report, lawyer and accountant opinions, and contract review in three languages of Chinese, English and Portuguese. The specific services we offer are as follows:"
+            ]
+          },
+          {
+            "title": "Development status and risk assessment of target enterprises",
+            "arr": [
+              "Country situation, industry development, political risks, laws and regulations, tax and industry regulatory policies;",
+              "Target enterprise’s business model, market share, product reputation, competition analysis, customer research, business future forecast."
+            ]
+          },
+          {
+            "title": "Legal due diligence",
+            "arr": [
+              "Qualification, ownership structure and actual controller of the target company;",
+              "Relationship between related parties and personnel;",
+              "Major litigation and arbitration;",
+              "Patents and IP rights.。"
+            ]
+          },
+          {
+            "title": "Financial due diligence",
+            "arr": [
+              "Financial statement analysis, tax, performance analysis and forecast."
+            ]
+          },
+          {
+            "title": " Industry research report",
+            "arr": [
+              "According to the requirements of our overseas customers, our company provides research reports from all walks of life in China. In addition, for customers at home, we also focus on the research of advantageous industries in Portugal, Brazil, Angola and other Portuguese speaking countries, including the basic research, data analysis, and the latest development trends of wine, olive oil, beef, soybean, sugar, iron ore, manganese ore, chrome ore, bauxite, copper mine, fir, eucalyptus, renewable energy, tourism and other industries, so as to serve all kinds of customers at home and abroad with important reference for business decision-making."
+            ]
+          },
+          {
+            "title": "Target customers",
+            "arr": [
+              "For Chinese enterprises interested in overseas markets, especially in Portuguese speaking countries, or based in these countries, due to their own business needs, we will give professional opinions and analysis based on our own understanding of the economy, politics and law of these countries.",
+              "For enterprises from the Portuguese speaking countries that are interested in the Chinese market and willing to develop in China or already in China, our company will provide you with the information and services you need for your business activities and plans in China with perfect professional services."
+            ]
+          },
+          {
+            "title": "Advantages",
+            "arr": [
+              "We have a law firm in Shenzhen. At the same time, we have in-depth exchanges and cooperation with overseas law firms and accounting firms, especially those in Brazil, Portugal, Angola and Mozambique, which can provide customers with integrated, efficient and economic services."
+            ]
+          }
+        ]
+      },
+      "Books": {
+        "name": "Books",
+        "title": "页面标题2",
+        "description": "页面描述2",
+        "keywords": "页面关键词2",
+        "content_list": [{
+            "title": "Introduction",
+            "arr": [
+              "Translation of foreign and Chinese books and periodicals, mainly academic, in Chinese, English or Portuguese. Our company can get easier the International Standard Serial Number, and deal with the problem of publications. The publication speed in our company can be 3-4 months faster than that in Mainland China. We committed to the diffusion of Chinese culture to the other countries and vice-verse, and to become a bridge of ideological and cultural communication between China and Portuguese-speaking countries.",
+              "The company is committed to introducing foreign works to China, so that Chinese students, scholars, politicians and business people can obtain materials and information in their native language with low cost and high efficiency. Meanwhile, our high-quality translation and supporting project approval services also give many scientific researchers an opportunity to expand their influence. We also have the project of translating Chinese works into other languages, and we are determined to introduce the excellent works of China to overseas countries, so as to provide more opportunities for foreign countries to have a deeper and easier understanding of China and Chinese excellent ideas and scientific research, as well as to increase the international influence of Chinese scholars."
+            ]
+          },
+          {
+            "title": "Project topics",
+            "arr": [
+              "Our company has carried out long-term cooperation with universities in Macao and other universities at home and abroad, and has assembled the cutting-edge achievements in various disciplines, especially in the fields of law, politics, economy, culture and other fields between China and Portuguese speaking countries into books. At the same time, we have also introduced valuable works and books of new academic stars."
+            ]
+          },
+          {
+            "title": "Capital",
+            "arr": [
+              "We cooperate with the Macao government to set up a project, apply for funds, translate the target works into Chinese, or translate the Chinese works into other languages."
+            ]
+          },
+          {
+            "title": "Channels",
+            "arr": [
+              "We cooperate with influential publishing institutions at home and abroad and will handle properly the publishing and distribution issues."
+            ]
+          }
+        ]
+      },
+      "Exhibition": {
+        "name": "Exhibition",
+        "title": "页面标题3",
+        "description": "页面描述3",
+        "keywords": "页面关键词3",
+        "content_list": [{
+            "title": "Introduction",
+            "arr": [
+              "With our advantages in consultation, translation and media promotion, the company provides a comprehensive, multi-dimensional and integrated exhibition service plan for domestic and foreign customers to participate in exhibitions abroad. Our company takes advantage of the localization, and with our knowledge of languages, to solve your real difficulties during the whole exhibition process for overseas companies coming to China and Chinese companies to overseas markets. At the same time, with the company's superiority on information we offer accurately high-quality exhibitions and industrial information to our customers.",
+              "At the same time, we offer one-stop, efficient and convenient company secretary services for enterprises with companies or offices in Macao, including business registration, business address leasing and other issues."
+            ]
+          },
+          {
+            "title": "Pre-exhibition information consultation",
+            "arr": [
+              "We collect and summarize exhibition information at home and abroad, assign special customer managers to recommend exhibitions according to characteristics and types of the customers’ brand. We coordinate with exhibition organizers to obtain detailed information such as quotations to provide all kinds of relevant information to our customers."
+            ]
+          },
+          {
+            "title": "Exhibition organization",
+            "arr": [
+              "According to the needs of customers, we can provide a series of arrangements and organizations, such as air tickets, invitation letters, visas, transportation and accommodation, etc., and according to the requirements of customers, we can organize preliminary preparation according to the exhibition decoration plan, and coordinate the allocation of short-term workers in personnel arrangement, if necessary, we will train the personnel to make them familiar with the customer and the brand in advance, at the same time, we will assign experienced interpreters to help customers deal with various emergencies."
+            ]
+          },
+          {
+            "title": "Follow-up services during the later stage of the exhibition",
+            "arr": [
+              "Our company will communicate with customers and send some information of those who are interested to our customers. And the company can cooperate with Portuguese speaking countries to promote products in the mainland, Macao and Hong Kong, including display advertising and advertorial."
+            ]
+          }
+        ]
+      },
+      "MediaPromotion": {
+        "name": "MediaPromotion",
+        "title": "页面标题4",
+        "description": "页面描述4",
+        "keywords": "页面关键词4",
+        "content_list": [{
+            "title": "Introduction",
+            "arr": [
+              "The company mainly arranges and customizes publicity plans in three channels: paper media, TV media and new media network. Based on the customer’s needs and budget and assisting the company in carrying out its main publicity, we screen out high-conversion promotional channels, coordinating and promoting the implementation of the promotional programs, and assist our customers to expand their main business. Organize conference marketing activities such as offline product launches, brand promotion events etc.",
+              "In terms of the planning and organization of publicity activities, we will tailor the publicity scheme for customers, screen the publicity channels with high conversion rate, and coordinate the implementation of the scheme. For example, we can hold conference marketing activities such as product conference and brand promotion meeting, invite industry media to support, co-host or even host the activities. In terms of sales promotion tools, we can coordinate and provide various product brochures, gifts, posters, packaging, product shooting, PPT, etc. to promote the smooth development of sales work. At the same time, we can also organize various offline activities to gather personnel from relevant industries, so as to facilitate mutual communication to exchange and share information."
+            ]
+          },
+          {
+            "title": "Paper media",
+            "arr": [
+              "According to the customers’ brand positioning, brand value chain, brand vision and so on, we can provide our customers with assistance in various magazines and newspapers at home and abroad."
+            ]
+          },
+          {
+            "title": "TV media",
+            "arr": [
+              "We have cooperation with Telediffusion of Macao Co., Ltd and domestic TV stations to arrange interviews and coordinate the launch of TV advertisements."
+            ]
+          },
+          {
+            "title": "New media and network promotion",
+            "arr": [
+              "We will help create Chinese version enterprise website, WeChat platform, Taobao, brochure production, etc. for Portuguese speaking companies according to their needs. For Chinese websites of domestic enterprises, our company also provide translation, customization and layout services in English and Portuguese."
+            ]
+          }
+        ]
+      },
+      "EducationTraining": {
+        "name": "EducationTraining",
+        "title": "页面标题5",
+        "description": "页面描述5",
+        "keywords": "页面关键词5",
+        "content_list": [{
+            "title": "Introduction",
+            "arr": [
+              "Our company specializes in online and offline language training, cultural sharing, and other types of professional training programs, including finance lease and commercial factoring, giving full play to our language and consulting advantages as well as the connections we have, and in return help to promote also our media promotion services. By this way, our company's businesses form a closed loop which helps us to achieve a healthy development."
+            ]
+          },
+          {
+            "title": "Language training program",
+            "arr": [
+              "Record online language training courses for knowledge analyzing and explaining and skills training. Offline, we offer tutorial classes by small classes, to understand the actual pain points and difficulties of students during face-to-face teaching and communicating, and in return the offline teaching practices also optimize our online learning projects."
+            ]
+          },
+          {
+            "title": "Cultural sharing project",
+            "arr": [
+              "organize activities to introduce Chinese culture and life style with selected topics, and introduce Chinese people the geographic, political, economic, cultural, and historical aspects of Portuguese-speaking countries, in order to promote mutual understanding between the two sides. And we will also organize a series of projects for cultural experience as well as various types of cross-cultural practice opportunities. By these scene-based ways and in an immersive manner, we help the activity participants to improve their language and language related working capabilities."
+            ]
+          },
+          {
+            "title": "Professional training program",
+            "arr": [
+              "organize activities to introduce Chinese culture and life style with selected topics, and introduce Chinese people the geographic, political, economic, cultural, and historical aspects of Portuguese-speaking countries, in order to promote mutual understanding between the two sides. And we will also organize a series of projects for cultural experience as well as various types of cross-cultural practice opportunities. By these scene-based ways and in an immersive manner, we help the activity participants to improve their language and language related working capabilities."
+            ]
+          }
+        ]
+      }
+    },
+    "pro": {
+      "menus": [
+         {
+          "name": "Tradução/Interpretação",
+          "url": "/service/Translation",
+          "query": "Translation",
+          "lang":"pro",
+          "id":0
+        },
+        {
+          "name": "Consultoria",
+          "url": "/service/Consulting",
+          "query": "Consulting",
+           "lang":"pro",
+           "id":1
+        },
+        {
+          "name": "Publicações",
+          "url": "/service/Books",
+          "query": "Books",
+           "lang":"pro",
+           "id":2
+        },
+        {
+          "name": "Exibições",
+          "url": "/service/Exhibition",
+          "query": "Exhibition",
+           "lang":"pro",
+           "id":3
+        },
+        {
+          "name": "Promoção juntos dos meios de comunicação",
+          "url": "/service/MediaPromotion",
+          "query": "MediaPromotion",
+           "lang":"pro",
+           "id":4
+        },
+        {
+          "name": "Educação/Formação",
+          "url": "/service/EducationTraining",
+          "query": "EducationTraining",
+           "lang":"pro",
+           "id":5
+        }
+      ],
+      "Translation": {
+        "title": "页面标题",
+        "description": "页面描述",
+        "keywords": "页面关键词",
+        "name": "Tradução/Interpretação",
+        "content_list": [{
+            "title": "Apresentar",
+            "arr": [
+              "Somos uma empresa especializada na prestação de serviços de tradução e interpretação entre as línguas portuguesa, chinesa e inglesa. Oferecemos diferentes modalidades de tradução e interpretação em diversos domínios: tradução profissional, interpretação de reuniões de negócios, interpretação simultânea, interpretação de acompanhamento, dobragens, localização de websites, localização e testes de softwares, edição eletrónica multilingue entre outros serviços."
+            ]
+          },
+          {
+            "title": "Tradução",
+            "arr": [
+              "Para além das traduções de caráter generalista, acumulámos uma vasta experiência no campo da tradução académica conseguida através da cooperação com a Fundação de Macau e professores universitários; ao mesmo tempo, reunimos uma grande equipa de profissionais especializados na prática de tradução especializada nomeadamente de documentação jurídica e de documentos de licitação.；"
+            ]
+          },
+          {
+            "title": "Interpretação",
+            "arr": [
+              "Amplamente envolvidos em várias interpretações de acompanhamento, interpretações de reuniões negócios e interpretações simultâneas, os nossos intérpretes dispõem de uma rica experiência de trabalho, formação abrangente de boa qualidade e forte capacidade de adaptação."
+            ]
+          },
+          {
+            "title": "Garantia de qualidade",
+            "arr": [
+              "Contamos com a colaboração de tradutores e intérpretes qualificados que têm experiência de trabalho e residência na China e no estrangeiro por um longo período, tendo obtido o grau de formação académica correspondente ou superior a mestrado em chinês-português, português-inglês ou chinês-português-inglês, o que os dota de competências abrangentes. Contamos ainda com um conjunto de revisores altamente qualificados cuja língua materna é a língua de chegada e tipógrafos experientes, o que nos permite garantir qualidade elevada, fidelidade e precisão das traduções, bem como uma boa apresentação estética dos documentos.",
+              "Em termos técnicos, fazemos uso da inteligência artificial em combinação com o nosso corpus especializado, cooperamos com os laboratórios de tecnologias de informação de universidades, utilizando algoritmos de tradução desenvolvidos pelos mais avançado laboratórios internacionais de Inteligência Artificial, tendo por base a tecnologia PNL. Com isto, pretendemos otimizar o banco de dados linguístico existente, aplicamos também a aprendizagem profunda nos nossos serviços, de modo a auxiliar os tradutores na otimização do processo de tradução em termos de rapidez e precisão, garantindo estabilidade em termos de qualidade e realizar tradução com uma taxa de precisão elevada por meio de redes neurais. Em domínios especializados, como negócios, economia, direito e finanças, conseguimos aprimorar e manter estável a qualidade das nossas traduções, superando a taxa de precisão habitual no mercado, dada uma conjuntura hipotética."
+            ]
+          }
+        ]
+      },
+      "Consulting": {
+        "name": "Consultoria",
+        "title": "页面标题1",
+        "description": "页面描述1",
+        "keywords": "页面关键词1",
+        "content_list": [{
+            "title": "Apresentar",
+            "arr": [
+              "Oferecemos serviços de consultoria e serviços jurídicos multinacionais e intersectoriais a empresas e particulares em chinês, inglês e português, designadamente diligência devida, aconselhamento estratégico, avaliação de riscos, consultoria na gestão de riscos, pesquisa e análise de mercado, relatórios setoriais de diferentes países, pareceres de advogados e contabilistas, revisão de contratos, entre outros. Os serviços específicos que disponibilizamos são os seguintes"
+            ]
+          },
+          {
+            "title": "Estado de desenvolvimento e avaliação de risco das empresas-alvo",
+            "arr": [
+              "Situação do país, mudanças e tendências da indústria, riscos políticos, leis e regulamentos, políticas reguladoras de impostos e da indústria.",
+              "Modelo empresarial da empresa-alvo, quota de mercado, reputação do produto, análise de concorrência, pesquisa de clientes e previsão de negócios futuros."
+            ]
+          },
+          {
+            "title": "Diligência devida jurídica",
+            "arr": [
+              "Qualificação, estrutura acionista e verdadeiro controlador da empresa-alvo.",
+              "Relação entre as partes relacionadas e o pessoal;",
+              "Contencioso judicial grave e arbitragem;",
+              "Patentes e direitos de propriedade intelectual.。"
+            ]
+          },
+          {
+            "title": "Auditoria financeira",
+            "arr": [
+              "Análise do balanço financeiro, tributação, análise de desempenho e projeções."
+            ]
+          },
+          {
+            "title": "Relatórios de pesquisa setoriais",
+            "arr": [
+              "De acordo com as necessidades dos nossos clientes no estrangeiro, elaboramos relatórios de pesquisa sobre todos os setores de atividade. Além disso, para clientes domésticos, dedicamo-nos também à pesquisa dos setores vantajosos em Portugal, Brasil, Angola e outros países de língua portuguesa, incluindo uma pesquisa básica, análise de dados, e as mais recentes tendências de desenvolvimento de indústrias como o vinho, azeite, carne bovina, soja, açúcar, minério de ferro, minério de manganês, minério de cromo, bauxita, mina de cobre, abeto, eucalipto, energia renovável, turismo, entre outras, por forma a servir todos os tipos de clientes tanto no mercado doméstico como no estrangeiro, e servir de referência na tomada de decisões empresariais."
+            ]
+          },
+          {
+            "title": "Clientes-alvo",
+            "arr": [
+              "Emitimos pareceres e análises profissionais a empresas chinesas interessadas em mercados estrangeiros, especialmente em países de língua portuguesa ou com sede nesses países, conforme as especificidades próprias das exigências dos seus negócios e o nosso próprio entendimento da economia, política e lei desses países.",
+              "Para empresas dos países de língua portuguesa interessadas no mercado chinês e que desejem expandir-se para a China ou já estejam na China, a nossa empresa fornecerá as informações e serviços necessários à realização das suas atividades e planos empresariais na China, através de serviços especializados de excelência."
+            ]
+          },
+          {
+            "title": "Vantagens",
+            "arr": [
+              "Temos um escritório de advocacia em Shenzhen. Simultaneamente, mantemos um intercâmbio e cooperação aprofundados com escritórios de advocacia e escritórios de contabilidade no estrangeiro, especialmente no Brasil, Portugal, Angola e Moçambique, o que nos possibilita oferecer aos nossos clientes serviços integrados, eficientes e económicos."
+            ]
+          }
+        ]
+      },
+      "Books": {
+        "name": "Publicações",
+        "title": "页面标题2",
+        "description": "页面描述2",
+        "keywords": "页面关键词2",
+        "content_list": [{
+            "title": "Apresentar",
+            "arr": [
+              "Tradução de livros e periódicos estrangeiros e chineses, principalmente de âmbito académico, em chinês, inglês ou português. Nossa empresa consegue o número de série do padrão internacional com facilidade e lidar também com a publicações. A velocidade de publicação em nossa empresa pode ser de 3 a 4 meses mais rápida que na China Continental. Comprometemo-nos com a difusão da cultura chinesa para os outros países e vice-versa, e em tornarmos uma ponte de comunicação ideológica e cultural entre a China e os países de língua portuguesa.",
+              "Comprometemo-nos a introduzir obras estrangeiras na China, para que estudantes, académicos e empresários chineses possam obter materiais e informações na sua língua nativa a baixo custo e com alta eficácia. Enquanto isso, os nossos serviços de tradução de alta qualidade e de apoio à aprovação de projetos também oferecem a muitos investigadores científicos a oportunidade de expandir a sua influência. Contamos ainda com projetos de tradução de obras chinesas para outras línguas e estamos determinados a introduzir perante o público estrangeiro obras chinesas de excelência, com o objetivo de proporcionar aos países estrangeiros mais oportunidades para obter uma compreensão mais profunda e conveniente das ideias chinesas e da pesquisa científica realizada, bem como com o intuito de aumentar a influência internacional dos estudiosos chineses."
+            ]
+          },
+          {
+            "title": "Tópicos do projeto",
+            "arr": [
+              "Estabelecemos uma cooperação de longo prazo com universidades em Macau e outras universidades nacionais e estrangeiras e reunimos em livros as mais recentes conquistas de várias disciplinas académicas, especialmente no que respeita ao intercâmbio entre a China e os países de língua portuguesa nas áreas de direito, política, economia, cultura. Ao mesmo tempo também introduzimos ao público obras consagradas de novos talentos académicos."
+            ]
+          },
+          {
+            "title": "Capital",
+            "arr": [
+              "Cooperamos com o governo de Macau no lançamento de projetos, candidatura a fundos, tradução de grande qualidade de obras-alvo para chinês ou tradução de obras chinesas para outras línguas."
+            ]
+          },
+          {
+            "title": "Meios",
+            "arr": [
+              "Cooperamos com editoras de relevo aquém e além-fronteiras e lidamos adequadamente com questões de publicação e distribuição."
+            ]
+          }
+        ]
+      },
+      "Exhibition": {
+        "name": "Exibições",
+        "title": "页面标题3",
+        "description": "页面描述3",
+        "keywords": "页面关键词3",
+        "content_list": [{
+            "title": "Apresentar",
+            "arr": [
+              "Com as vantagens de que dispomos em termos de consultoria, tradução e promoção juntos dos meios de comunicação, oferecemos um abrangente plano de serviços de apoio à participação em exposições no estrangeiro, multidimensional e integrado, para clientes nacionais e estrangeiros. Nossa empresa aproveita a localização e, com o nosso conhecimento de idiomas, para resolver suas dificuldades reais durante todo o processo de exibição para empresas estrangeiras que chegam à China e empresas chinesas para mercados estrangeiros. Ao mesmo tempo, com a vantagem da empresa no acesso das informações, oferecemos exposições de alta qualidade e informações industriais com precisão aos nossos clientes.",
+              "Simultaneamente, oferecemos serviços de secretaria executiva na ótica de balcão único, eficientes e convenientes para empresas com sede ou escritórios de representação em Macau, incluindo registo comercial, locação de endereços comerciais, entre outros."
+            ]
+          },
+          {
+            "title": "Aconselhamento de caráter informativo no período que antecede a exposição",
+            "arr": [
+              "Recolhemos e resumimos informações relativas a exposições dentro do país e no estrangeiro, atribuímos gestores de clientes adequado ao perfil de cada cliente, procedemos à coordenação com os organizadores da exposição para obter informações detalhadas, como orçamentos, para obtermos todos os tipos de informações relevantes para os nossos clientes."
+            ]
+          },
+          {
+            "title": "Organização da exposição",
+            "arr": [
+              "De acordo com as necessidades dos clientes, podemos fornecer uma série de serviços de preparação e organização, desde bilhetes de avião, cartas-convite, vistos, transporte e acomodação, e de acordo com os requisitos dos clientes, podemos tratar dos preparativos que antecedem a exposição de acordo com o plano de decoração e coordenar a alocação de trabalhadores temporários; se necessário, treinaremos o pessoal para familiarizá-lo com o cliente e a marca de antemão; ao mesmo tempo, nomearemos intérpretes experientes para ajudar os clientes a lidar com qualquer eventualidade de última hora."
+            ]
+          },
+          {
+            "title": "Serviços de acompanhamento no período posterior à exposição",
+            "arr": [
+              "A nossa empresa encarrega-se de manter o contacto com os clientes e proceder ao envio de algumas informações e notícias de relevo para os nossos clientes. A empresa poderá igualmente cooperar com os países de língua portuguesa no sentido de divulgar produtos daí provenientes na China continental, Macau e Hong Kong, designadamente através de publicidade gráfica e publi-reportagem."
+            ]
+          }
+        ]
+      },
+      "MediaPromotion": {
+        "name": " Promoção juntos dos meios de comunicação",
+        "title": "页面标题4",
+        "description": "页面描述4",
+        "keywords": "页面关键词4",
+        "content_list": [{
+            "title": "Apresentar",
+            "arr": [
+              "Organizamos e personalizamos planos de publicidade via três canais principais: meios de comunicação social impressos, televisão e novos meios de comunicação social e internet de acordo com as necessidades específicas e o orçamento do cliente, auxiliando a empresa na sua divulgação.",
+              "Filtramos os canais promocionais de alta conversão, coordenamos e promovemos a implementação dos programas e ajudamos nossos clientes a expandir seus principais negócios. Organizamos atividades de marketing para conferências, como lançamentos offline de produtos, eventos de promoção de marcas etc."
+            ]
+          },
+          {
+            "title": "Mídia de papel",
+            "arr": [
+              "De acordo com o posicionamento da marca, a cadeia de valor da marca, a visão da marca entre os outros, ofereceríamos aos nossos clientes assistência em várias revistas e jornais em casa e no exterior."
+            ]
+          },
+          {
+            "title": "Televisão",
+            "arr": [
+              "Temos cooperação com a Teledifusão de Macau Co., Ltd e estações de televisão na China no âmbito da organização de entrevistas e coordenação de lançamento de anúncios televisivos."
+            ]
+          },
+          {
+            "title": "Novos meios de comunicação social e internet",
+            "arr": [
+              "Ajudamos as empresas dos países de língua portuguesa a criar a versão chinesa do website da empresa, bem como as plataformas no WeChat e no Taobao, prestamos apoio na produção de folhetos, entre outros serviços, de acordo com o interesse que estas manifestem. Prestamos também serviços a empresas domésticas no que respeita aos seus websites, em termos de tradução, personalização e layout em inglês e português.",
+              "No que diz respeito ao planeamento e organização das atividades publicitárias, personalizamos planos publicitários à medida dos nossos clientes, procedendo à seleção de meios de difusão com altas taxas de conversão, e coordenamos a implementação do plano. A título de exemplo, podemos organizar conferência de marketing, como conferências de produtos e eventos de promoção de marcas, convidando os meios de comunicação para dar apoio, assumir o papel co-anfitriões ou até mesmo anfitriões desses eventos. Em termos de ferramentas de promoção de vendas, coordenamos e providenciamos um leque variado de brochuras, presentes, cartazes, embalagens, sessões fotográficas de produtos, PPT entre outros, com o intuito de dar ímpeto às vendas. Simultaneamente, organizamos atividades à margem para reunir pessoal dos setores relevantes, a fim de facilitar a comunicação mútua para trocar e partilhar informações, caso o cliente manifeste interesse."
+            ]
+          }
+        ]
+      },
+      "EducationTraining": {
+        "name": "Educação/Formação",
+        "title": "页面标题5",
+        "description": "页面描述5",
+        "keywords": "页面关键词5",
+        "content_list": [{
+            "title": "Apresentar",
+            "arr": [
+              "Nossa empresa é especializada no ensino de línguas tanto online como offline, compartilhamento cultural e outros tipos de programas de formação profissional de tempo curto, incluindo arrendamento financeiro e fatoração comercial, oferecendo toda a vantagem do nosso conhecimento nas línguas, cultura e consultoria, bem como as rede das conexões que temos e, em troca, ajudam a promover também nossos serviços de promoção de mídia. Dessa forma, os negócios de nossa empresa formam um circuito fechado que nos ajuda a alcançar um desenvolvimento saudável."
+            ]
+          },
+          {
+            "title": "Projeto de compartilhamento cultural",
+            "arr": [
+              "organize atividades para introduzir a cultura e o estilo de vida chinês com tópicos selecionados e introduza ao povo chinês os aspectos geográficos, políticos, econômicos, culturais e históricos dos países de língua portuguesa, a fim de promover o entendimento mútuo entre os dois lados. E também organizaremos uma série de projetos para a experiência cultural, bem como vários tipos de oportunidades de prática intercultural. Por essas formas baseadas em cenas e de maneira imersiva, ajudamos os participantes da atividade a melhorar suas capacidades de trabalho relacionadas ao idioma e ao idioma."
+            ]
+          },
+          {
+            "title": "Programas de treinamento profissional",
+            "arr": [
+              "Com apoio de acadêmicos e professores da área da Grande Baía, oferecemos programas de treinamento de curto prazo de arrendamento financeiro e fatoração comercial, entre outros projetos de treinamento especializado, como comerciais, jurídicos e interdisciplinares, destinados aos empresários. principalmente do mundo de língua portuguesa e os comerciantes da região da Grande Baía. Com esses projetos de treinamento, nossa empresa tem como objetivo fornecer as informações mais atualizadas e transmitir as mais recentes tendências de desenvolvimento industrial aos nossos clientes."
+            ]
+          },
+          {
+            "title": "Programas de treinamento de idiomas",
+            "arr": [
+              "Com apoio de acadêmicos e professores da área da Grande Baía, oferecemos programas de treinamento de curto prazo de arrendamento financeiro e fatoração comercial, entre outros projetos de treinamento especializado, como comerciais, jurídicos e interdisciplinares, destinados aos empresários. principalmente do mundo de língua portuguesa e os comerciantes da região da Grande Baía. Com esses projetos de treinamento, nossa empresa tem como objetivo fornecer as informações mais atualizadas e transmitir as mais recentes tendências de desenvolvimento industrial aos nossos clientes."
+            ]
+          }
+        ]
+      }
+    }
+  }
+   }
+}

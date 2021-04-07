@@ -1,0 +1,170 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_1975565c"
+  },
+  {
+    "name": "Books",
+    "path": "/Books",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\Books.vue",
+    "chunkName": "pages/Books",
+    "_name": "_344c9d4f"
+  },
+  {
+    "name": "Consulting",
+    "path": "/Consulting",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\Consulting.vue",
+    "chunkName": "pages/Consulting",
+    "_name": "_27e47f21"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_39c03ca5"
+  },
+  {
+    "name": "EducationTraining",
+    "path": "/EducationTraining",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\EducationTraining.vue",
+    "chunkName": "pages/EducationTraining",
+    "_name": "_6a3d8072"
+  },
+  {
+    "name": "Exhibition",
+    "path": "/Exhibition",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\Exhibition.vue",
+    "chunkName": "pages/Exhibition",
+    "_name": "_72f93bfa"
+  },
+  {
+    "name": "joinus",
+    "path": "/joinus",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\joinus.vue",
+    "chunkName": "pages/joinus",
+    "_name": "_917c9f5a"
+  },
+  {
+    "name": "MediaPromotion",
+    "path": "/MediaPromotion",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\MediaPromotion.vue",
+    "chunkName": "pages/MediaPromotion",
+    "_name": "_4ee4ec6c"
+  },
+  {
+    "name": "question",
+    "path": "/question",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\question.vue",
+    "chunkName": "pages/question",
+    "_name": "_ab0c599e"
+  },
+  {
+    "name": "Suggest",
+    "path": "/Suggest",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\Suggest.vue",
+    "chunkName": "pages/Suggest",
+    "_name": "_3fc5dde9"
+  },
+  {
+    "name": "Translation",
+    "path": "/Translation",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\Translation.vue",
+    "chunkName": "pages/Translation",
+    "_name": "_f9d957d4"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_12fd2f97"
+  },
+  {
+    "name": "lang",
+    "path": "/:lang",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\_lang\\\\index.vue",
+    "chunkName": "pages/_lang/index",
+    "_name": "_5c902030"
+  },
+  {
+    "name": "lang-about",
+    "path": "/:lang/about",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\_lang\\\\about.vue",
+    "chunkName": "pages/_lang/about",
+    "_name": "_3cd8456b"
+  },
+  {
+    "name": "lang-Books",
+    "path": "/:lang/Books",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\_lang\\\\Books.vue",
+    "chunkName": "pages/_lang/Books",
+    "_name": "_7ddf8de8"
+  },
+  {
+    "name": "lang-Consulting",
+    "path": "/:lang/Consulting",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\_lang\\\\Consulting.vue",
+    "chunkName": "pages/_lang/Consulting",
+    "_name": "_cc85f3b0"
+  },
+  {
+    "name": "lang-contact",
+    "path": "/:lang/contact",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\_lang\\\\contact.vue",
+    "chunkName": "pages/_lang/contact",
+    "_name": "_6a596afe"
+  },
+  {
+    "name": "lang-EducationTraining",
+    "path": "/:lang/EducationTraining",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\_lang\\\\EducationTraining.vue",
+    "chunkName": "pages/_lang/EducationTraining",
+    "_name": "_a849da40"
+  },
+  {
+    "name": "lang-Exhibition",
+    "path": "/:lang/Exhibition",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\_lang\\\\Exhibition.vue",
+    "chunkName": "pages/_lang/Exhibition",
+    "_name": "_365c79fe"
+  },
+  {
+    "name": "lang-joinus",
+    "path": "/:lang/joinus",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\_lang\\\\joinus.vue",
+    "chunkName": "pages/_lang/joinus",
+    "_name": "_bfe65a4c"
+  },
+  {
+    "name": "lang-MediaPromotion",
+    "path": "/:lang/MediaPromotion",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\_lang\\\\MediaPromotion.vue",
+    "chunkName": "pages/_lang/MediaPromotion",
+    "_name": "_0d2d3551"
+  },
+  {
+    "name": "lang-question",
+    "path": "/:lang/question",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\_lang\\\\question.vue",
+    "chunkName": "pages/_lang/question",
+    "_name": "_e5f32010"
+  },
+  {
+    "name": "lang-Suggest",
+    "path": "/:lang/Suggest",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\_lang\\\\Suggest.vue",
+    "chunkName": "pages/_lang/Suggest",
+    "_name": "_705f0c42"
+  },
+  {
+    "name": "lang-Translation",
+    "path": "/:lang/Translation",
+    "component": "D:\\\\Projects\\\\shenbo\\\\shenbo_web\\\\pages\\\\_lang\\\\Translation.vue",
+    "chunkName": "pages/_lang/Translation",
+    "_name": "_4c4badef"
+  }
+]

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "zh": {
+      "pagetitle":"关于我们-深博中葡文化咨询有限公司",
+      "pagekeywords":["深博","深博中葡文化咨询有限公司","中英葡翻译机构"],
+      "pagedescription":"深博中葡文化咨询有限公司是中国最专业的中英葡翻译机构，拥有最高水平的葡语国家咨询服务，初期会为客户提供企业秘书服务，主要包括公司注册、法定秘书和注册地址提供、年审年报和会计审计等一系列业务",
+      "vision": "公司愿景",
+      "vision_text": [
+        "中国最专业的中英葡翻译机构，最高水平的葡语国家咨询服务。",
+        "考虑到目前中国和葡语国家语言和地理上的壁垒，双方在不管是经济贸易还是旅游文化交流都还停留在相对较低的水平，在中国葡语国家领域相应的专业服务还没远远没有达到应有的水平。面对这个供需严重失调的现象，我公司致力于打造中国最高水平的葡语翻译和葡语国家咨询，并且向葡语国家商贸企业提供翻译资讯等一系列配套服务，着力成为中国和葡语国家商贸、文化、学术沟通交流的桥梁，促进互相间各类咨询的流通降低沟通成本。为中国企业走出去，和葡语国家企业、产品、资本引进来，提供一体化全方位服务，配合我国一带一路政策，为双边关系建设增砖添瓦。"
+      ],
+      "LocationAdvantages": "区域优势",
+      "locationAdvantages_text": [
+        "公司坐落在澳门，其官方语言为中文和葡文两种语言，与葡语国家有着多年的历史文化交流。同时澳门政府大力推动中国葡语国家经贸往来，致力于将澳门打造成中国葡语国家交流的平台和互相间的窗口，政策倾斜度大。澳门是港珠澳大湾区的重要组成部分，是国家重点扶持对象一带一路政策也将澳门作为重要环节和枢纽，以发挥澳门沿承的与葡语国家相似的政治经济制度优势。葡萄牙语和中葡翻译专业也是澳门大学、澳门科技大学、澳门理工等等澳门本地高校的重点强势专业，为语言人才的培养提供了得天独厚的环境。"
+      ],
+      "business": "公司主营业务",
+      "business_service": [{
+          "name": "翻译",
+          "url": "/service/Translation?ServiceName=Translation"
+        },
+        {
+          "name": "图书",
+          "url": "/service/Consulting?ServiceName=Consulting"
+        },
+        {
+          "name": "咨询",
+          "url": "/service/Books?ServiceName=Books"
+        },
+        {
+          "name": "会展",
+          "url": "/service/Exhibition?ServiceName=Exhibition"
+        },
+        {
+          "name": "传媒推广",
+          "url": "/service/MediaPromotion?ServiceName=MediaPromotion"
+        },
+        {
+          "name": "教育培训",
+          "url": "/service/EducationTraining?ServiceName=EducationTraining"
+        }
+      ],
+      "business_text": [
+        "以中英葡语言翻译包括口译和笔译为基础，图书翻译项目为依托，提高公司的基础业务能力，扩大公司高素质人才储备和人才培养。在此基础上发挥我公司的多语种和公司人才的法律背景，向中国和海外特别是葡语国家企业和个人提供各种类型的咨询业务，主要有尽职调查、市场分析调研、国别行业情况报告，出具律师和会计师意见，中英葡合同审查，等等。",
+        "在口译项目的基础上，我们在会展板块为客户定制出了一体化全流程的展会服务体系，主要针对葡语国家企业对中国情况不了解，行业精准信息获取成本高，根据我公司以往的经验，结合对市场的调查和了解，提供包括会前信息咨询、会展活动组织协调、会展后期跟进在内三大块、全流程保姆式服务，力求服务的完善、经济、高效。",
+        "考虑到很多客户有在澳门设立公司或者代表处的意愿，我公司在初期也会为客户提供企业秘书服务，主要包括公司注册、法定秘书和注册地址提供、年审年报和会计审计等一系列业务，配合客户适应以澳门和珠三角为依托，开发国内市场。另外，利用公司现有的客户和合作方网络，以及和政府的良好关系和信息优势，为客户牵线搭桥便于客户初期在中国的业务开展。同时公司在传媒推广上的优势，可以为客户在澳门、大湾区和中国，为客户定制打造一系列宣传活动。"
+      ],
+      "CorporateValues": "公司价值观",
+      "CorporateValues_text": "诚实守信、脚踏实地、精益求精、客户至上"
+    },
+    "hk": {
+      "pagetitle":"關於我們-深博中葡文化谘詢有限公司",
+      "pagekeywords":["深博","深博中葡文化谘詢有限公司","中英葡翻譯機構"],
+      "pagedescription":"深博中葡文化谘詢有限公司是中國最專業的中英葡翻譯機構，拥有最高水平的葡語國家諮詢服務，初期也會為客戶提供企業秘書服務，主要包括公司註冊、法定秘書和註冊地址提供、年審年報和會計審計等一係列業務",
+      "vision": "公司願景",
+      "vision_text": [
+        "中國最專業的中英葡翻譯機構，最高水平的葡語國家諮詢服務，爲中國和葡語國家間企業交流提供最深度和細節化的商業服務。",
+        "考慮到目前中國和葡語國家語言和地理上的壁壘，雙方在不管是經濟貿易還是觀光文化交流都還停留在相對較低的水準，在中國葡語國家領域相應的專業服務還冇遠遠冇有達到應有的水準。麵對這個供需嚴重失調的現象，我公司緻力於打造中國最高水準的葡語翻譯和葡語國家谘詢，並且嚮葡語國家商貿企業提供翻譯資訊等一係列配套服務，著力成為中國和葡語國家商貿、文化、學術溝通交流的橋梁，促進互相間各類谘詢的流通降低溝通成本。為中國企業走出去，和葡語國家企業、産品、資本引進來，提供一體化全方位服務，配合我國一帶一路政策，為雙邊關係建設增磚添瓦。"
+      ],
+      "LocationAdvantages": "區域優勢",
+      "locationAdvantages_text": [
+        "公司坐落在澳門，其官方語言為中文和葡文兩種語言，與葡語國家有著多年的曆史文化交流。同時澳門政府大力推動中國葡語國家經貿往來，緻力於將澳門打造成中國葡語國家交流的平臺和互相間的視窗，政策傾斜度大。澳門是港珠澳大灣區的重要組成部分，是國家重點扶持對象一帶一路政策也將澳門作為重要環節和樞紐，以發揮澳門沿承的與葡語國家相似的政治經濟製度優勢。葡萄牙語和中葡翻譯專業也是澳門大學和澳門科技大學等等澳門在地高校的重點強勢專業，為語言人才的培養提供了得天獨厚的環境。"
+      ],
+      "business": "主營業務",
+      "business_service": [{
+          "name": "翻譯",
+          "url": "/service/Translation?ServiceName=Translation"
+        },
+        {
+          "name": "谘詢",
+          "url": "/service/Consulting?ServiceName=Consulting"
+        },
+        {
+          "name": "圖書（和審核）",
+          "url": "/service/Books?ServiceName=Books"
+        },
+        {
+          "name": "會展",
+          "url": "/service/Exhibition?ServiceName=Exhibition"
+        },
+        {
+          "name": "傳媒推廣",
+          "url": "/service/MediaPromotion?ServiceName=MediaPromotion"
+        },
+        {
+          "name": "教育培訓",
+          "url": "/service/EducationTraining?ServiceName=EducationTraining"
+        }
+      ],
+      "business_text": [
+        "以中英葡語言翻譯包括口譯和筆譯為基礎，圖書翻譯項目為依托，提高公司的基礎業務能力，擴大公司高素質人才儲備和人才培養。在此基礎上發揮我公司的多語種和公司人才的法律背景，嚮中國和海外特別是葡語國家企業和個人提供各種類型的谘詢業務，主要有盡職調查、市場分析調研、國別行業情況報告，出具律師和會計師意見，中英葡契約審查，等等。",
+        "在口譯項目的基礎上，我們在會展闆塊為客戶定製出了一體化全流程的展會服務體係，主要針對葡語國家企業對中國情況不了解，行業精準信息獲取成本高，根據我公司以往的經驗，結合對市場的調查和了解，提供包括會前信息谘詢、會展活動組織協調、會展後期跟進在內三大塊、全流程保姆式服務，力求服務的完善、經濟、高效。",
+        "考慮到很多客戶有在澳門設立公司或者代錶處的意願，我公司在初期也會為客戶提供企業秘書服務，主要包括公司註冊、法定秘書和註冊地址提供、年審年報和會計審計等一係列業務，配合客戶適應以澳門和珠三角為依托，開發國內市場。另外，利用公司現有的客戶和合作方網路，以及和政府的良好關係和信息優勢，為客戶牽線搭橋便於客戶初期在中國的業務開展。同時公司在傳媒推廣上的優勢，可以為客戶在澳門、大灣區和中國，為客戶定製打造一係列文宣活動。"
+      ],
+      "CorporateValues": "公司價值觀",
+      "CorporateValues_text": "誠實守信、腳踏實地、精益求精、客戶至上"
+    },
+    "us": {
+      "pagetitle":"About-Chinpor Culture and Consultancy Co. Ltd",
+      "pagekeywords":"",
+      "pagedescription":"",
+      "vision": "Vision",
+      "vision_text": [
+        "We expect to be China’s most professional Chinese-English-Portuguese translation agency, to offer the best consulting services to Portuguese speaking countries and provide the most in-depth business services for business exchanges between China and Portuguese speaking countries.",
+        "Due to the current language and geographical barriers between China and Portuguese speaking countries, economic and trade relations, as well as the tourism and cultural exchanges between the sides are still at a relatively low level in, and the corresponding professional services in the field of Chinese Portuguese speaking countries are far from sufficient. To meet this serious imbalance between supply and demand, our company is committed to building the highest-level translation services in Portuguese and consultation services for Portuguese speaking countries, providing a series of supporting services such as translation and information services to enterprises of Portuguese speaking country. Our company is striving to be a bridge for business, culture and academic communication between China and Portuguese speaking countries to promote the circulation of various kinds of consultation between each other and reduce costs in communication. We offer integrated and comprehensive services for Chinese enterprises to go global, and for enterprises, products and capital from Portuguese speaking countries to come in, following the Belt and Road Initiative in promoting the bilateral relations."
+      ],
+      "LocationAdvantages": "Location Advantages",
+      "locationAdvantages_text": [
+        "Located in Macao, with Chinese and Portuguese as the official languages, our company boasts many years of historical and cultural exchanges with Portuguese speaking countries. At the same time, with many favorable policies, the Macao government vigorously promotes economic and trade exchanges between Portuguese speaking countries in China and is committed to building Macao into a platform for exchanges and a window between Portuguese speaking countries in China. Macao, as an important part of the Hong Kong-Zhuhai-Macao Greater Bay area, is a key area favored with national supporting policy. Macao is also listed as an important link and hub in the Belt and Road Initiative, to give full play to the advantages of Macao’s political and economic system which is similar to that of Portuguese speaking countries. Portuguese and Chinese Portuguese translation are also the key and strong majors of Macao universities such as Macao University and Macao University of Science and Technology, which provide a unique environment for the education of language and culture."
+      ],
+      "business": "Main Business",
+      "business_service": [{
+          "name": "Translation/Interpretation",
+          "url": "/service/Translation?ServiceName=Translation"
+        },
+        {
+          "name": "Consulting",
+          "url": "/service/Consulting?ServiceName=Consulting"
+        },
+        {
+          "name": "Books",
+          "url": "/service/Books?ServiceName=Books"
+        },
+        {
+          "name": "Exhibition",
+          "url": "/service/Exhibition?ServiceName=Exhibition"
+        },
+        {
+          "name": "Media Promotion",
+          "url": "/service/MediaPromotion?ServiceName=MediaPromotion"
+        },
+        {
+          "name": "Education & training",
+          "url": "/service/EducationTraining?ServiceName=EducationTraining"
+        }
+      ],
+      "business_text": [
+        "Based on the translation/interpretation services among Chinese, English and Portuguese, combined with the book translation projects, our company is strengthening our ability in offering qualified services, expanding the recruitment and training highly-qualified talents. Upon this basis, we will give full play to the advantages of our company’s multilingual services that offered by the talents with legal knowledge of our company, to provide various types of consulting services to enterprises and individuals in China and overseas, especially in Portuguese speaking countries, including due diligence, market analysis and research, reports on countries and industries, lawyer and accountant opinions, contract review in three languages of Chinese, English or Portuguese, etc.",
+        "Based on interpretation projects, we have customized an integrated whole process exhibition service system for our customers in the exhibition sector, which is mainly aimed at Portuguese speaking enterprises that are lack of the knowledge about China to reduce their high cost for accurate information in the industry. Based on our previous experience, after market research, we provide economic and efficient services during three major periods of the whole process, including pre-conference information consultation, exhibition organization and coordination, and follow-up services in the later stage of the exhibition.",
+        "As there are many customers willing to set up companies or representative offices in Macao, our company will also provide a series of services in this regard, to serve our customers as enterprise secretary in the early stage of their exploration the Chinese market, which includes mainly services like company registration, legal secretary and provision of registered address, annual review, annual report and accounting audit and, so as to help the customers to adapt to Macao and the Pearl River Delta to develop the domestic market. In addition, through our company’s existing customer and partner network, as well as the good relationship and information advantages with the government, we offer convenience to our customers to fit themselves into the markets of China in the initial stage of their business. At the same time, taking the advantages of our company in media promotion, we can create a series of customized promotional activities for customers in Macao, Greater Bay Area and China’s Mainland."
+      ],
+      "CorporateValues": "Corporate Values",
+      "CorporateValues_text": "Honest and Trustworthy, Earnest and Down-to-earth, Constantly Strive for Perfection, Customer First"
+    },
+    "pro": {
+     "pagetitle":"Sobre-Chinpor Culture and Consultancy Co. Ltd",
+     "pagekeywords":"",
+     "pagedescription":"",
+      "vision": "Visão",
+      "vision_text": [
+        "Ambicionamos ser a agência de tradução na China mais especializada na tradução de e para chinês, português e inglês, oferecendo aos nossos clientes dos países de língua portuguesa serviços de consultoria de mais alto nível e disponibilizando serviços comerciais em profundidade tendo em vista a promoção do intercâmbio empresarial entre a China e os países de língua portuguesa.",
+        "Devido às barreiras linguísticas e geográficas existentes entre a China e os países de língua portuguesa, as relações económicas e comerciais, à semelhança das trocas turísticas e culturais entre ambos os lados, ainda estão num nível relativamente baixo, e os serviços profissionais correspondentes no domínio dos países de língua portuguesa continuam muito aquém do desejável. Com o objetivo de colmatar a grave disparidade existente entre a oferta e a procura neste âmbito, dedicamo-nos a providenciar serviços de tradução de alto nível em português e serviços de consultoria para os países de língua portuguesa, fornecendo uma série de serviços de apoio às empresas dos países de língua portuguesa, nos quais se incluem serviços de tradução, interpretação e consultoria.Esforçamo-nos por ser uma ponte entre a China e os países de língua portuguesa, pretendendo promover o intercâmbio empresarial, cultural e académico, fomentando a circulação de diversos tipos de consultoria entre si o que permite reduzir os custos de comunicação. Desta forma, propomo-nos a oferecer serviços integrados e abrangentes que propiciem a internacionalização das empresas chinesas bem como a entrada de empresas estrangeiras, produtos e capital dos países de língua portuguesa, seguindo a promoção das relações bilaterais proposta no âmbito da iniciativa Faixa e Rota."
+      ],
+      "LocationAdvantages": "Vantagens de localização",
+      "locationAdvantages_text": [
+        "Localizada em Macau, onde o chinês e o português são línguas oficiais, a nossa empresa conta com muitos anos de intercâmbio histórico e cultural com países de língua portuguesa. Ao mesmo tempo, através de políticas de incentivo, o governo de Macau tem vindo a promover vigorosamente as trocas económicas e comerciais entre a China e os países de língua portuguesa, e tem realizado esforços no sentido de valorizar o papel de Macau enquanto plataforma de intercâmbio e janela entre a China e os países de língua portuguesa. Macau, como parte importante da Área da Grande Baía de Hong Kong-Zhuhai-Macau, é uma área-chave favorecida pelo apoio do governo. Macau constitui, de igual modo, um importante elo e eixo na Iniciativa Faixa e Rota, por beneficiar das semelhanças dos sistemas político e económico de Macau e dos países de língua portuguesa. Além disso, a tradução português-chinês/chinês-português constitui a especialidade chave do ensino superior em Macau, nomeadamente da Universidade de Macau e da Universidade de Ciência e Tecnologia de Macau, proporcionando um ambiente excecional para a formação de recursos humanos altamente qualificados no par de línguas referido."
+      ],
+      "business": "Ramo de atividade",
+      "business_service": [{
+          "name": "Tradução/Interpretação",
+          "url": "/service/Translation?ServiceName=Translation"
+        },
+        {
+          "name": "Consultoria",
+          "url": "/service/Consulting?ServiceName=Consulting"
+        },
+        {
+          "name": "Publicações",
+          "url": "/service/Books?ServiceName=Books"
+        },
+        {
+          "name": "Exibições",
+          "url": "/service/Exhibition?ServiceName=Exhibition"
+        },
+        {
+          "name": "Promoção juntos dos meios de comunicação",
+          "url": "/service/MediaPromotion?ServiceName=MediaPromotion"
+        },
+        {
+          "name": "Educação/Formação",
+          "url": "/service/EducationTraining?ServiceName=EducationTraining"
+        }
+      ],
+      "business_text": [
+        "Tendo por base a prestação de serviços de tradução e interpretação de e para as línguas chinês, inglês e português e as publicações realizadas neste âmbito, reforçamos a nossa capacidade em oferecer serviços de qualidade, contando com uma equipa cada vez maior de profissionais qualificados e disponibilizando oportunidades de formação.",
+        "Neste sentido, tiramos partido das vantagens proporcionadas pelo multilinguismo e conhecimentos em matéria de Direito de que os nossos recursos humanos dispõem, prestando diversos serviços de consultoria a empresas e particulares, especialmente de países de língua portuguesa. Os serviços que prestamos incluem auditoria jurídica, análise e prospeção de mercado, relatórios setoriais de diferentes países, pareceres de advogados e contabilistas, revisão de contratos em chinês, inglês e português.",
+        "Tendo como base os nossos projetos de interpretação, criámos um sistema de prestação de serviços integrado de apoio na participação em exposições, destinando-se principalmente às empresas de países de língua portuguesa cujo conhecimento sobre a China é escasso. Com isto, pretendemos reduzir os custos elevados que as empresas têm de suportar em troca da obtenção de informação precisa. Beneficiando da nossa experiência acumulada, combinada com o estudo e análise do mercado, prestamos serviços nas diversas fases da participação em exposições, a saber, aconselhamento de caráter informativo no período que antecede a exposição, organização e coordenação de exposições, e serviços de acompanhamento no período posterior à exposição, procurando por todos os meios contribuir para a otimização, economia e eficácia do serviço."
+      ],
+      "CorporateValues": "Valores corporativos",
+      "CorporateValues_text": "Honestidade e compromisso, pragmatismo, busca incessante pela perfeição, o cliente em primeiro lugar."
+    }
+  }
+}
